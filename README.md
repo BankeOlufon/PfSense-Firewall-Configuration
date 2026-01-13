@@ -30,6 +30,8 @@ Examples:
 🔴 LAN1 → 🌍 Internet ✅ (usually allowed)
 
 🟢 LAN0 → 🔴 LAN1 ❌ (often blocked too)
+
+**Internal networks never reach the internet directly — pfSense routes them out through its WAN.**
 ####
 
 Adapter 1: (Bridged - WAN) 
