@@ -1,6 +1,9 @@
 # PfSense-Firewall-Configuration
 Firewall Configuration with PfSense in a Virtual Environment
 
+<img width="738" height="589" alt="image" src="https://github.com/user-attachments/assets/37336ea5-1075-4036-a2c1-453b51fe9ef9" />
+
+
 Step 1: Install PfSense
 
 Step 2: 
