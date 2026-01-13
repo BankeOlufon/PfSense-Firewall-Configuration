@@ -38,15 +38,20 @@ Adapter 1: (Bridged - WAN)
 Purpose: Connects pfSense to the host’s real network / internet
 Traffic: pfSense WAN interface uses this to send/receive traffic from the outside world
 
-<img width="843" height="399" alt="image" src="https://github.com/user-attachments/assets/e8877e2b-f75e-4f1f-a47a-7c556f44f36b" />
-
+<img width="817" height="380" alt="image" src="https://github.com/user-attachments/assets/8f096f7c-05c2-4e2b-9126-7e6d64801bc3" />
 
 
 Adapter 2:
 Purpose: Internal Network (LAN) This is a safe, isolated LAN for lab VMs that aren’t “attacking” anything
 Traffic: VMs on this network can talk to each other and route through pfSense to the WAN (internet) if allowed
 
+<img width="808" height="320" alt="image" src="https://github.com/user-attachments/assets/de29668c-4a1d-4402-8455-8e68f6c50fc2" />
+
+
 Adapter 3: Internal Network (LAN) Purpose: Isolated network for penetration testing
 Traffic: Only attacker + target VMs exist here
+
+<img width="822" height="326" alt="image" src="https://github.com/user-attachments/assets/5799e7ff-5bd9-4e82-a92a-613a17cf13ad" />
+
 
 
